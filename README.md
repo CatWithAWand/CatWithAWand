@@ -2,11 +2,11 @@
 
 
 ## 💫About Me
-- 🔭 I’m currently working on [Snowflakify](https://github.com/CatWithAWand/snowflakify)
+- 🔭 I’m currently working on something really cool 🤫
 
-- 🌱 I’m currently learning **Elixir, GraphQL, RabbitMQ, Redis**
+- 🌱 I’m currently learning **Next.Js, GraphQL, Fastify, Redis**
 
-- 👩‍💻 I'm self-taught and code for fun pls dont be mean :(
+- 👩‍💻 I'm self-taught and code for fun ^^
 
 - 😄 Pronouns: she/her/hers
 
