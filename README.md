@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ariana</h1>
+<h1 align="center">Hi 👋, I'm Ari</h1>
 
 # 💫 About Me:
 - 🔭 I’m currently working on something really cool 🤫
