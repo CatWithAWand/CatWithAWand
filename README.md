@@ -4,7 +4,6 @@
 - 🔭 I’m looking to work on something
 - 🌱 I’m currently learning Next.js/Three.js/WebGL
 - 👩‍💻 I'm self-taught and trying to get into tech
-- 😄 Pronouns: she/her/hers
 
 
 ### 🌐 Socials:
