@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 - 🔭 I’m looking to work on something
-- 🌱 I’m currently learning Next.js/Three.js/WebGL
+- 🌱 I’m currently learning YOLO/OpenCV/PyTorch
 - 👩‍💻 I'm self-taught and trying to get into tech
 
 
