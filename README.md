@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ari</h1>
+<br>
 
 ## About Me
 - 🔭 I’m currently working on [Booruwu](https://booruwu.vercel.app/)
