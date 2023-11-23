@@ -18,4 +18,5 @@
 
 ---
 💙💗🤍💗💙 <br>
-❤️🧡💛💚💙💜🤎🖤
+❤️🧡💛💚💙💜🤎🖤 <br>
+<a href="https://hits.sh/github.com/CatWithAWand/"><img alt="Hits" src="https://hits.sh/github.com/CatWithAWand.svg?style=flat-square&label=%E2%80%8F%E2%80%8F%E2%80%8E%20%E2%80%8E&color=0D111700&labelColor=0D111700"/></a>
