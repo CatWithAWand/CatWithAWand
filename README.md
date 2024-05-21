@@ -2,7 +2,6 @@
 <br>
 
 ## About Me
-- 🔭 I’m currently working on [Booruwu](https://booruwu.vercel.app/)
 - 👩‍💻 I'm self-taught and trying to get into tech
 
 
