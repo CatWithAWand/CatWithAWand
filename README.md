@@ -20,6 +20,7 @@
   />
   <img src="https://github-readme-stats-catwithawands-projects.vercel.app/api?username=CatWithAWand&show_icons=true&hide_border=false&include_all_commits=true&hide_rank=true&border_color=3d444d" />
 </picture>
+<br />
 <picture>
   <source
       srcset="https://github-readme-stats-catwithawands-projects.vercel.app/api/top-langs/?username=CatWithAWand&hide_border=false&include_all_commits=true&layout=compact&border_color=3d444d&theme=github_dark"
